@@ -19,7 +19,7 @@
 
     <properties>
         <!-- Common libs -->
-        <spring_version>4.3.16.RELEASE</spring_version>
+        <spring_version>4.3.29.RELEASE</spring_version>
         <revision>2.7.6</revision>
     </properties>
     <dependencyManagement>
